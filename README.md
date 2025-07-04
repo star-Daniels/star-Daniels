@@ -1,5 +1,5 @@
-###👋 Olá! Eu sou Daniel Santos!  
-##🎯 Desenvolvedor Full Stack em formação | 📍 SENAI-BA | 3º semestre de Desenvolvimento de Sistemas  
+👋 Olá! Eu sou Daniel Santos!  
+🎯 Desenvolvedor Full Stack em formação | 📍 SENAI-BA | 3º semestre de Desenvolvimento de Sistemas  
 
 Estou construindo minha experiência principalmente através dos estudos e projetos no SENAI, onde venho aprendendo Java, CSS, HTML, C++, C, Kotlin, Spring Boot, além de eletrônica e IoT. Atualmente, estou me aprimorando especialmente em Java para fortalecer minhas habilidades no desenvolvimento back-end.
 
