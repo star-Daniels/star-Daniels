@@ -21,4 +21,16 @@ Estou sempre aberto a novos desafios e oportunidades para crescer profissionalme
 
 ## 🛠️ Tecnologias e Ferramentas:
 
-Java | Kotlin | C++ | C | HTML5 | CSS3 | JavaScript | Spring Boot | MySQL | Git | Eletrônica | IoT
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-electronics-automation-technology-flat-flat-juicy-fish.png" alt="Eletrônica" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/internet-of-things.png" alt="IoT" width="40" height="40"/>
+</p>
