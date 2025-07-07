@@ -31,6 +31,6 @@ Estou sempre aberto a novos desafios e oportunidades para crescer profissionalme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-electronics-automation-technology-flat-flat-juicy-fish.png" alt="Eletrônica" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/electronics.png" alt="Eletrônica" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/internet-of-things.png" alt="IoT" width="40" height="40"/>
 </p>
