@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Daniel Santos!
 
-🎯 **Desenvolvedor Full Stack em formação** | 📍 SENAI-BA | 3º semestre de Desenvolvimento de Sistemas
+🎯 **Desenvolvedor Full Stack em formação** | 📍 SENAI-BA | 4º semestre de Desenvolvimento de Sistemas
 
-Estou construindo minha experiência principalmente através dos estudos e projetos no SENAI, onde venho aprendendo **Java, CSS, HTML, C++, C, Kotlin, Spring Boot**, além de **eletrônica e IoT**. Atualmente, estou me aprimorando especialmente em **Java** para fortalecer minhas habilidades no desenvolvimento back-end.
+Estou construindo minha experiência principalmente através dos estudos e projetos no SENAI, onde venho aprendendo **Java, CSS, HTML, React, C++, C, Spring Boot**, além de **eletrônica e IoT**. Atualmente, estou me aprimorando especialmente em **Java** para fortalecer minhas habilidades no desenvolvimento back-end.
 
 Estou sempre aberto a novos desafios e oportunidades para crescer profissionalmente.
 
@@ -23,8 +23,6 @@ Estou sempre aberto a novos desafios e oportunidades para crescer profissionalme
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   
