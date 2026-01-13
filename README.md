@@ -1,19 +1,20 @@
 # 👋 Olá! Eu sou Daniel Santos!
 
-🎯 **Desenvolvedor Full Stack em formação** | 📍 SENAI-BA | 4º semestre de Desenvolvimento de Sistemas
+🎯 **Desenvolvedor Full Stack Júnior** | 🎓 **Técnico em Desenvolvimento de Sistemas – SENAI-BA (concluído)**
 
-Estou construindo minha experiência principalmente através dos estudos e projetos no SENAI, onde venho aprendendo **Java, CSS, HTML, React, C++, C, Spring Boot**, além de **eletrônica e IoT**. Atualmente, estou me aprimorando especialmente em **Java** para fortalecer minhas habilidades no desenvolvimento back-end.
+Sou desenvolvedor em início de carreira, com experiência construída através de projetos práticos e da formação técnica no SENAI, onde estudei e desenvolvi aplicações utilizando **Java, HTML, CSS, React, C, C++, Spring Boot**, além de projetos envolvendo **eletrônica e IoT**.
 
-Estou sempre aberto a novos desafios e oportunidades para crescer profissionalmente.
+Tenho maior foco em **desenvolvimento back-end com Java e Spring Boot**, mas também possuo base sólida em **front-end**, o que me permite criar aplicações completas.
 
-🚀 **Buscando minha primeira experiência profissional na área de tecnologia!**
+🚀 **Em busca da minha primeira oportunidade profissional na área de tecnologia.**
 
 ---
 
-## 📚 O que estou aprendendo no momento:
+## 📚 Atualmente estou me aprofundando em:
 
-- Aprimoramento em **Java**  
-- Front-End 
+- ☕ **Java e Spring Boot**  
+- 🌐 **Desenvolvimento Front-End (HTML, CSS, React)**  
+- 🧠 **Boas práticas, lógica de programação e POO**
 
 ---
 
@@ -21,15 +22,9 @@ Estou sempre aberto a novos desafios e oportunidades para crescer profissionalme
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-
 </p>
