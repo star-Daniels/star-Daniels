@@ -1,41 +1,65 @@
-# 👋 Olá! Eu sou Daniel Santos!
+#  Olá! Eu sou Daniel Santos
 
-🎯 **Desenvolvedor Full Stack Júnior** | 🎓 **Técnico em Desenvolvimento de Sistemas – SENAI-BA (concluído)**
+ **Desenvolvedor Full Stack Júnior**  
+ Técnico em Desenvolvimento de Sistemas – SENAI-BA (concluído)  
+ Graduando em Engenharia de Software – UNIFAN  
 
-Sou desenvolvedor em início de carreira, com experiência construída através de projetos práticos e da formação técnica no SENAI, onde estudei e desenvolvi aplicações utilizando **Java, HTML, CSS, React, C, C++, Spring Boot**, além de projetos envolvendo **eletrônica e IoT**.
+Sou um desenvolvedor em início de carreira, com experiência prática adquirida através de projetos e da formação técnica no SENAI. Já desenvolvi aplicações utilizando **Java, Spring Boot, React, HTML e CSS**, além de projetos com **C, C++ e IoT**.
 
-Tenho maior foco em **desenvolvimento back-end com Java e Spring Boot**, mas também possuo base sólida em **front-end**, o que me permite criar aplicações completas.
+Tenho foco em **Back-End com Java e Spring Boot**, mas também possuo uma base sólida em **Front-End**, explorando atualmente **React, Three.js e Vite** para criação de interfaces modernas e interativas.
 
-🚀 **Em busca da minha primeira oportunidade profissional na área de tecnologia.**
-
----
-
-## 📚 Atualmente estou me aprofundando em:
-
-- ☕ **Java e Spring Boot**  
-- 🌐 **Desenvolvimento Front-End (HTML, CSS, React)**  
-- 🧠 **Boas práticas, lógica de programação e POO**
+ Atualmente, estou em busca da minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
+##  Atualmente estudando
 
-<p style="display: flex;flex-direction: row; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+-  Java e Spring Boot  
+-  React + Three.js (Front-End moderno e 3D)  
+-  Vite (build e performance)  
+-  Lógica de Programação, POO e boas práticas  
+-  Fundamentos de Engenharia de Software  
+
+---
+
+##  Tecnologias
+
+### Tecnologias Base
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github">
 </p>
+
+---
+
+### Front-End
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js">
+  <img src="https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite">
+  <img src="https://img.shields.io/badge/Three.js-111?style=for-the-badge&logo=three.js">
+</p>
+
+---
+
+### Back-End e Banco de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Spring_Boot-111?style=for-the-badge&logo=springboot">
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql">
+</p>
+
+---
+
+### Outros
+<p align="center">
+  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/IoT-111?style=for-the-badge">
+</p>
+
+
+
